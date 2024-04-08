@@ -12,7 +12,7 @@ The only input line contains an integer n.
 Print a line that contains all values of n during the algorithm.
 
 ## Constraints
-- 1 <= n <= 10^6
+- 1 &\leq n &\leq 10^6
 
 ## Example
 ### Input
