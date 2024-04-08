@@ -37,4 +37,4 @@ Happy coding!
 
 ---
 
-[![Programmers' Paradise Logo](./images/logo.png)](6613a282ad4b8.jpg)
+[![Programmers' Paradise Logo](6613a282ad4b8.jpg)
