@@ -27,9 +27,7 @@ To contribute to the repository, follow these guidelines:
 7. Push your changes to your forked repository (`git push origin my-branch`).
 8. Create a pull request (PR) to merge your changes into the main repository.
 
-## Code of Conduct
 
-We expect all contributors to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). Please review it before making any contributions.
 
 ## Questions or Concerns
 
