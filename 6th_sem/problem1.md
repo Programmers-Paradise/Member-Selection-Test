@@ -32,11 +32,11 @@ $$
 2 3 2\
 2 4 6\
 3 2 8\
-3 4 1\
+3 4 1
 
 
 #### Output:
-4 4 7\
+4 4 7
 
 Explanation: The cheapest routes are $1 \rightarrow 3 \rightarrow 4$ (price 4), $1 \rightarrow 2 \rightarrow 3 \rightarrow 4$ (price 4), and $1 \rightarrow 2 \rightarrow 4$ (price 7).
 
