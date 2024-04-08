@@ -1,6 +1,6 @@
 # Programmers' Paradise Code Repository
 
-Welcome to the Programmers' Paradise Code Repository! This repository serves as a platform for members to share their solutions to programming problems and collaborate on coding projects.
+Welcome to the Programmers' Paradise Code Repository! This repository serves as a platform for members to share their solutions to programming problems for the selection of the members in the coding club.
 
 ## Purpose
 
