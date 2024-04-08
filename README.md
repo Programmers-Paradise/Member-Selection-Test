@@ -39,4 +39,4 @@ Happy coding!
 
 ---
 
-[![Programmers' Paradise Logo](./images/logo.png)](https://github.com/programmersparadise)
+[![Programmers' Paradise Logo](./images/logo.png)](https://avatars.githubusercontent.com/u/166372023?s=48&v=4)
