@@ -1,6 +1,6 @@
 
 
-```markdown
+
 ## Problem Statement
 
 The United Federation of Planets is an alliance of $N$ planets, indexed from 1 to $N$. Some planets are connected by space tunnels, allowing travel between them. Additionally, there are $D$ parallel universes, each with the same planets and space tunnels. Dimension portals connect planets between universes. Starship Batthyány embarks on a voyage, starting at planet $P_{01}$. Captain Ágnes and Lieutenant Gábor take turns choosing destinations to visit, aiming to explore new places. They cannot revisit a planet within the same universe but can visit the same planet in different universes. Captain Ágnes wins if they both play optimally. Calculate the number of portal placements where Captain Ágnes wins, modulo $10^9 + 7$.
@@ -53,5 +53,5 @@ There is only 1 portal, and there are $3 \times 3 = 9$ different placements. Amo
 | 6       | 20     | $N \leq 1000$ and $D \leq 10^5$    |
 | 7       | 20     | $D \leq 10^5$                      |
 | 8       | 15     | No additional constraints           |
-```
+
 
