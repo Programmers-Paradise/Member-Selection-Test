@@ -17,22 +17,21 @@ Print a single integer, the number of possible portal placements where Captain √
 ### Examples
 
 **Input:**
-```
-3 1
-1 2
+
+3 1\
+1 2\
 2 3
-```
 
 **Output:**
-```
+
 4
-```
+
 
 **Explanation:**
 There is only 1 portal, and there are $3 \times 3 = 9$ different placements. Among them, 4 placements allow Captain √Ågnes to win.
 
 <p align="center">
-  <img src=for_problem3.png alt="Grid Image">
+  <img src = for_problem3.png alt="Grid Image">
 </p>
 
 
