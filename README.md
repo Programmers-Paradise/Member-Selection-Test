@@ -23,9 +23,10 @@ To contribute to the repository, follow these guidelines:
 3. Create a new branch for your changes (`git checkout -b my-branch`).
 4. Add your solution to the appropriate folder.
 5. In your code, include a comment with your name and email address.
-6. Commit your changes (`git commit -m "Add <RollNo. - Branch(AI/DS) - solution for problem XYZ"`).
-7. Push your changes to your forked repository (`git push origin my-branch`).
-8. Create a pull request (PR) to merge your changes into the main repository.
+6. Create a new folder with you name and branch and roll no. inside the "Pull_Requests" folder of your respective semester.
+7. Commit your changes in that respective folder (`git commit -m "Add <RollNo. - Branch(AI/DS) - solution for problem XYZ"`).
+8. Push your changes to your forked repository (`git push origin my-branch`).
+9. Create a pull request (PR) to merge your changes into the main repository.
 
 
 
