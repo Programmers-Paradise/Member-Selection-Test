@@ -31,7 +31,7 @@ Print a single integer, the number of possible portal placements where Captain √
 There is only 1 portal, and there are $3 \times 3 = 9$ different placements. Among them, 4 placements allow Captain √Ågnes to win.
 
 <p align="center">
-  <img src = for_problem3.png alt="Grid Image">
+  <img src =for_problem3.PNG alt="Grid Image">
 </p>
 
 
