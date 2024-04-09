@@ -3,7 +3,7 @@
 Starting in the top left corner of a 2 x 2 grid, and only being able to move to the right and down, there are exactly routes to the bottom right corner.
 
 <p align="center">
-  <img src=4th_sem/for_problem2.png alt="Grid Image">
+  <img src=for_problem2.png alt="Grid Image">
 </p>
 
 
