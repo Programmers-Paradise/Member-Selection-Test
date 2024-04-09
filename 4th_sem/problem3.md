@@ -31,7 +31,7 @@ Output on a single line two space-separated integers min and max, where min is t
 
 ### Sample Input 1
 ```
-10 3 5\
+10 3 5
 3
 2
 -7
