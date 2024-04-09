@@ -1,4 +1,4 @@
-Here's the Markdown for the problem statement:
+
 
 ```markdown
 ## Problem Statement
