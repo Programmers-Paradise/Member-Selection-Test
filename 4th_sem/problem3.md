@@ -29,22 +29,20 @@ Output on a single line two space-separated integers min and max, where min is t
 - $h - ℓ ≤ 1,000$
 - $-10^4 ≤ p ≤ 10^4$
 
-### Sample Input 1
-```
-10 3 5
-3
-2
--7
-5
-4
-1
-3
-0
--3
-5
-```
 
-### Sample Output 1
-```
-2 4
-```
+
+| Sample Input 1        | Sample Output 1 |
+|-----------------------|-----------------|
+| 10 3 5                | 2 4             |
+| 3                     |                 |
+| 2                     |                 |
+| -7                    |                 |
+| 5                     |                 |
+| 4                     |                 |
+| 1                     |                 |
+| 3                     |                 |
+| 0                     |                 |
+| -3                    |                 |
+| 5                     |                 |
+
+
