@@ -2,7 +2,7 @@
     Name - Abhay singh sisoodiya 
     branch - 2nd sem (AI)
     roll no. - 01
-    discribtion - The following code is written in python.
+    description - The following code is written in python.
 """
 print("The code works on 24hrs clock.")
 n = int(input())
