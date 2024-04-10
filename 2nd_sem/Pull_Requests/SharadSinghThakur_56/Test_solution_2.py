@@ -6,7 +6,6 @@ def solution(n):
             sum += i
         elif i % 5 == 0:
             sum += i
-            print(i)
         elif i%3==0 :
             sum += i
         i+=1
