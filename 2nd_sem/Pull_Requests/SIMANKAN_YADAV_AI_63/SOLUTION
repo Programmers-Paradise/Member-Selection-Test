@@ -1,0 +1,70 @@
+#include<stdio.h>   
+int main()
+{
+    int n;
+    printf("enter a positive number:");
+    scanf("%d",&n);
+    if(n<1||n>1000000)
+    {
+        printf("please enter a valid number");
+        return 1;
+    }
+    while(n!=1)
+    {
+        printf("%d\t",n);
+        if(n%2==0)
+        {
+            n=n/2;
+        }
+        else
+        {
+            n=3*n+1;
+        }
+    }
+    printf("1\n");
+    return 0;
+}
+
+
+//SOLUTION 2
+#include<stdio.h>
+int main()
+{
+    int num,i,sum=0;
+    printf("enter upper limit:");
+    scanf("%d",&num);
+    for(i=1;i<num;i++)
+    {
+        if(i%3==0||i%5==0){
+            sum=sum+i;
+            
+        }
+
+    }
+    printf("the sum is:%d",sum);
+    return 0;
+
+}
+
+
+//SOLUTION 3
+#include<stdio.h>
+    
+int main()
+{
+    int start[]={3,4,5};
+    int end[]={5,9,8};
+    int n=sizeof(start)/sizeof(start[0]);
+    int count=1;
+    int endtime=end[0];
+    for(int i=1;i<n;i++)
+    {
+        if(start[i]>=endtime)
+        {
+            count++;
+            endtime=end[i];
+        }
+    }
+    printf("maximum number of movies you can watch is %d",count);
+    return 0;
+}
