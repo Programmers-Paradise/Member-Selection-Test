@@ -8,7 +8,6 @@ def solution(n):
             sum += i
         elif i%3==0 :
             sum += i
-        i+=1
     return sum
 
 n = int(input())
