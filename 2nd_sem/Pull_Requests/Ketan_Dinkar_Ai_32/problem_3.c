@@ -25,7 +25,7 @@ int main(){
     for(int x=0;x<n;x++){
         printf("\n%d %d\n",st[x],et[x]);
     }
-    int c=0,end=et[0];
+    int c=1,end=et[0];
     for(int x=0;x<n;x++){
         if(st[x]>=end){
             c++;
