@@ -2,7 +2,7 @@
     Name - Abhay singh sisoodiya 
     branch - 2nd sem (AI)
     roll no. - 01
-    discribtion - The following code is written in c-programming language.
+    description - The following code is written in c-programming language.
 */
 #include<stdio.h>
 
