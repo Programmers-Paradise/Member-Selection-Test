@@ -21,7 +21,7 @@ for(int i=0;i<k;i++){
                 }
             }
         }
-        j=j+2;
+        j=j+2; 
     }
     printf("%d",result);
     return 0;
