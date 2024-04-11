@@ -1,0 +1,19 @@
+/*
+    Name - Abhay singh sisoodiya 
+    branch - 2nd sem (AI)
+    roll no. - 01
+    description - The following code is written in Bhailang , which is a dynamically typed 
+    toy programming language, based on an inside joke, written in Typescript.
+*/
+hi bhai
+    bhai ye hai n = 20;
+    bhai ye hai result = 0;
+    bhai ye hai i = 1;
+    jab tak bhai(i < n) {
+        agar bhai(i % 3 == 0 || i % 5 == 0) {
+            result += i;
+        }
+        i += 1;
+    }
+    bol bhai result;
+bye bhai
