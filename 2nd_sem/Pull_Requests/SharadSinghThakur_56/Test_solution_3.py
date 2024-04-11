@@ -1,3 +1,7 @@
+""" 
+name = Sharad Singh Thakur
+email = sharadthakur265@gmail.com
+"""
 def max_movies(list,n) -> int:
     count = 0
     for start,end in list:

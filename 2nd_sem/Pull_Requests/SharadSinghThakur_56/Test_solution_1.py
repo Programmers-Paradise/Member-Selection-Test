@@ -1,3 +1,8 @@
+""" 
+name = Sharad Singh Thakur
+email = sharadthakur265@gmail.com
+"""
+
 def solution(n):
     print(n,end = " ")
     while n!=1:

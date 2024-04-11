@@ -1,3 +1,7 @@
+""" 
+name = Sharad Singh Thakur
+email = sharadthakur265@gmail.com
+"""
 def solution(n):
     i = 0
     sum = 0
