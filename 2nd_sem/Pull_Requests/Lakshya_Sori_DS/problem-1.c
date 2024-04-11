@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void algorithm(int i);
+void function(int i);
 int main() {
     int i;
     printf("Enter  integer: ");
@@ -9,11 +9,11 @@ int main() {
         printf(" enter a integer.\n");
         return 1;
     }
-    printf("Sequence for i = %d:\n", i);
-    Algorithm(i);
+    printf("Seq for i = %d:\n", i);
+    function(i);
     return 0;
 }
-void algorithm(int i) {
+void function(int i) {
     while (i != 1) {
         printf("%d -> ", i);
         if (i % 2 == 0) {
@@ -24,5 +24,5 @@ void algorithm(int i) {
             i = 3 * i + 1;
         }
     }
-    printf("1\n"); 
+    printf("thank you\n"); 
 }
