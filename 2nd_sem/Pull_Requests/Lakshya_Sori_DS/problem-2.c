@@ -1,11 +1,10 @@
 
 #include <stdio.h>
-
-int main() {
+int main(){
     int N = 20; 
     int sum = 0;
     int i = 1;
-    while (i < 20) {
+    while (i <= 20) {
         if (i % 3 == 0 || i % 5 == 0) {
             sum += i;
         }
