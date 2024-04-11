@@ -3,14 +3,14 @@
 void algorithm(int i);
 int main() {
     int i;
-    printf("Enter positive integer: ");
+    printf("Enter  integer: ");
     scanf("%d", &i);
     if (i <= 0) {
-        printf(" enter a positive integer.\n");
+        printf(" enter a integer.\n");
         return 1;
     }
     printf("Sequence for i = %d:\n", i);
-    simulateAlgorithm(i);
+    Algorithm(i);
     return 0;
 }
 void algorithm(int i) {
