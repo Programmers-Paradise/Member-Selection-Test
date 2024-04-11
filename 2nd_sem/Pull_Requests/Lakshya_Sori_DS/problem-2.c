@@ -1,16 +1,17 @@
 
 #include <stdio.h>
 int main(){
-    int N = 20; 
+    int k = 20; 
     int sum = 0;
-    int i = 1;
-    while (i <= 20) {
-        if (i % 3 == 0 || i % 5 == 0) {
-            sum += i;
-        }
-        i++;
+    int j=1
+    while(j <= 20){
+        if(j % 3= 0 || j % 5==0) {
+            sum =sum + i;
+            else {printf(" thank you");
+                }
+        }i++;
     }
-    printf("Sum of multiples of 3 and 5 below %d = %d\n", N, sum);
+    printf("Sum of multiples  3 and 5  %d = %d\n", k, sum);
     return 0;
 }
 
