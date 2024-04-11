@@ -6,9 +6,7 @@ int main(){
     int j=1
     while(j <= 20){
         if(j % 3= 0 || j % 5==0) {
-            sum =sum + i;
-            else {printf(" thank you");
-                }
+            sum =sum + j;
         }i++;
     }
     printf("Sum of multiples  3 and 5  %d = %d\n", k, sum);
