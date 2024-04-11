@@ -19,9 +19,3 @@ def minm_rooms(customers):
             room_allocation[i] = len(rooms)
     print(len(rooms))
     print(*room_allocation)
-
-
-
-customers = [(6, 6), (5, 5), (6, 6), (5, 10)]
-minm_rooms(customers)
-
