@@ -16,11 +16,3 @@ def count_profitable_segments(n, profits, min_size, max_size):
             max_profitable_segments = max(max_profitable_segments, profitable_segments)
 
     return min_profitable_segments+1, max_profitable_segments+1
-
-n = 10
-min_size = 3
-max_size = 5
-profits = [3, 2, -7, 5, 4, 1, 3, 0, -3, 5]
-
-min_profitable, max_profitable = count_profitable_segments(n, profits, min_size, max_size)
-print(min_profitable, max_profitable)  # Output: 2, 4
