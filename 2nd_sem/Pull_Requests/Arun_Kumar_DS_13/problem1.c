@@ -14,10 +14,8 @@ while(n!=1){
     else{
         n = n*3 +1;
     }
-    if(n != 1){
-    printf("%d ",n);
-    }
-}
-  printf("%d",n);
+    
+
+  printf("%d\t",n);}
   return 0;
 }
