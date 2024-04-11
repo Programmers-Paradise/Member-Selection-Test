@@ -14,3 +14,4 @@ printf("The sum of factors of 3 & 5 is : %d",sum);
 return 0;
 
 }
+
