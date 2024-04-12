@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/deshm/OneDrive/Documents/GitHub/Member-Selection-Test/6th_sem/Pull_Requests/Rishabh_Tiwari",
+      "program": "c:/Users/deshm/OneDrive/Documents/GitHub/Member-Selection-Test/6th_sem/Pull_Requests/Rishabh_Tiwari/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
