@@ -28,6 +28,9 @@ To contribute to the repository, follow these guidelines:
 8. Push your changes to your forked repository (`git push origin my-branch`).
 9. Create a pull request (PR) to merge your changes into the main repository.
 
+## Important Note :-
+Those who have applied earlier for club positions and haven't taken the test their candidature for the club positions will be automatically rejected.
+
 
 
 ## Questions or Concerns
