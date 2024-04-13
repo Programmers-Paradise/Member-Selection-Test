@@ -1,6 +1,7 @@
 #include<stdio.h>
 
-int main() {
+int main()
+{
     int N, sum = 0;
 
     printf("Enter the value of n: ");
